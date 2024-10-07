@@ -7,14 +7,14 @@
 ## 🛠 📑 TECHNICAL SKILLS & QUALIFICATIONS
 
 - **🤖 Programming languages**: Java, Python, JavaScript, MatLab, Shell Script, Golang <br>
-- **🏗️ Frameworks**: Flask, Vue.js, React Native <br>
+- **🏗️ Frameworks**: Flask, Vue.js, React Native, ZK Framework <br>
 - **⚙️ Operating System**: : MacOS, Windows, Linux, Unix, Ubuntu <br>
 - **⛁ Databases**: MySQL, Redis, Elasticsearch, SQLAlchemy <br>
 - **</> API Tools**: PostMan, Ngrok <br>
 - **🐳 Containerization tools**: Kubernetes, Docker, RKE2 <br>
-- **Automation**: Jenkins, Ansible, CI/CD <br>
+- **🔄 Automation**: Jenkins, Ansible, CI/CD <br>
 - **✍ Source Control System**: SVN, Git, GitLab, GitHub, Bitbucket <br>
-- **📦 AWS**: CodeBuild, S3, EC2, ECR <br>
+- **📦 Cloud tools**: AWS CodeBuild, S3, EC2, ECR, GCP <br>
 - **🔠 Language proficiency**:  **IELTS** Overall:7/9, Speaking: 7.5/9, JLPT N1, **TOEIC** L:450, R:435 (Total: 885) <br>
 - **🏅 Award**: Ningbo Government Scholarship for Hong Kong, Macao and Taiwan Students 2018 – 2019 (1st class in Computer Science Department), University of Nottingham, Ningbo – China <br>
 
@@ -35,19 +35,19 @@
  - Developed optimized and compressed Docker images, seamlessly delivered to Amazon ECR, resulting in a notable decrease in overall deployment time by 20%.
  - Designed automated scripts to perform data comparison tasks, reducing human errors (Python).
 
-**Software Engineer** - [**Dell Technologies**](https://www.dell.com/en-us)	_Nov 2021 – Dec 2022_<br>
+**Software Engineer** - @[**Dell Technologies**](https://www.dell.com/en-us)	_Nov 2021 – Dec 2022_<br>
 
  - Delivered 4 functional specifications of business requirements in VxRail HCI system, led to an enhancement in stakeholders' satisfaction across enterprises.
  - Redesigned the security functions with Golang to decrease operational maintenance costs.
  - Developed 3 data retrieval APIs with Java to reduce the upgrade time of VxRail HCI by 8%.
  - Refactored both Kubernetes and RKE2 syntax commands, and resolved the failure of k8s image build to improve system stability and reliability.
 
-**Software Engineer intern** - [**RealRate**](https://realrate.ai/) _Jul 2021 – Sep 2021_<br>
+**Software Engineer intern** - @[**RealRate**](https://realrate.ai/) _Jul 2021 – Sep 2021_<br>
 
 - Extended 8 numeric equations of AI rating model, and evaluated the financial strength of US companies with Python.
 - Manipulated APIs to automatically retrieve data from US Edgar database, and merged manual json files, resulting in comprehensive financial analysis and actionable insights.
 
-**Software Engineer Intern** - [**Moovo Mobility Ltd**](https://www.ridemoovo.com/) _May 2020 – Sep 2020_<br>
+**Software Engineer Intern** - @[**Moovo Mobility Ltd**](https://www.ridemoovo.com/) _May 2020 – Sep 2020_<br>
 
 - Created 3 TaiShin bank's APIS to request credit card transaction page
 - Generated API units testing via Postman, and refactored Moovo project coding base
