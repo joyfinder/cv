@@ -7,11 +7,15 @@
 ## 🛠 📑 TECHNICAL SKILLS & QUALIFICATIONS
 
 - **🤖 Programming languages**: Java, Python, JavaScript, MatLab, Shell Script, Golang <br>
-- **🏗️ Frameworks**: Flask, Vue.js, React Native | Operating System: MacOS, Windows, Linux, Unix, Ubuntu <br>
-- **⛁ Databases**: MySQL, Redis, Elasticsearch, SQLAlchemy | Tools: PostMan, Ngrok <br>
-- **🐳 Containerization tools**: Kubernetes, Docker, RKE2 | Automation: Jenkins, Ansible, CI/CD <br>
-- **✍ Source Control System**: SVN, Git, GitLab, GitHub, Bitbucket | AWS: CodeBuild, S3, EC2, ECR <br>
-- **🔠 Language proficiency**:  IELTS Overall:7/9, Speaking: 7.5/9, JLPT N1, TOEIC L:450, R:435 (Total: 885) <br>
+- **🏗️ Frameworks**: Flask, Vue.js, React Native <br>
+- **⚙️ Operating System**: : MacOS, Windows, Linux, Unix, Ubuntu <br>
+- **⛁ Databases**: MySQL, Redis, Elasticsearch, SQLAlchemy <br>
+- **</> API Tools**: PostMan, Ngrok <br>
+- **🐳 Containerization tools**: Kubernetes, Docker, RKE2 <br>
+- **Automation**: Jenkins, Ansible, CI/CD <br>
+- **✍ Source Control System**: SVN, Git, GitLab, GitHub, Bitbucket <br>
+- **📦 AWS**: CodeBuild, S3, EC2, ECR <br>
+- **🔠 Language proficiency**:  **IELTS** Overall:7/9, Speaking: 7.5/9, JLPT N1, **TOEIC** L:450, R:435 (Total: 885) <br>
 - **🏅 Award**: Ningbo Government Scholarship for Hong Kong, Macao and Taiwan Students 2018 – 2019 (1st class in Computer Science Department), University of Nottingham, Ningbo – China <br>
 
 ## 💼 Working experience 
