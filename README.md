@@ -28,26 +28,26 @@
  - Deploy Ngrok to securely expose locally hosted web applications, enabling seamless integration with Neweb notification APIs, achieving improved user engagement and experience.
  - Collaborated with front-end developers to integrate backend content sharing functionality.
 
-**DevOps Engineer** - [**Hytech Technology Ltd**](https://www.hytechc.com/)	_Apr 2023 - Oct 2023_<br>
+**DevOps Engineer** - @<a href="https://www.hytechc.com/" target="_blank">Hytech Technology Ltd</a> _Apr 2023 - Oct 2023_<br>
 
  - Designed the program of querying multiple MySQL databases' results, and automatically saved it into both success and error logs, reducing internal members' manual query works to save time.
  - Created cron jobs (Pipeline scripts & Shell Scripts) to schedule backend tasks, and automated deployment assignments for multiple repositories on Jenkins platform.
  - Developed optimized and compressed Docker images, seamlessly delivered to Amazon ECR, resulting in a notable decrease in overall deployment time by 20%.
  - Designed automated scripts to perform data comparison tasks, reducing human errors (Python).
 
-**Software Engineer** - @[**Dell Technologies**](https://www.dell.com/en-us)	_Nov 2021 – Dec 2022_<br>
+**Software Engineer** - @<a href="https://www.dell.com/en-us" target="_blank">Dell Technologies</a> _Nov 2021 – Dec 2022_<br>
 
  - Delivered 4 functional specifications of business requirements in VxRail HCI system, led to an enhancement in stakeholders' satisfaction across enterprises.
  - Redesigned the security functions with Golang to decrease operational maintenance costs.
  - Developed 3 data retrieval APIs with Java to reduce the upgrade time of VxRail HCI by 8%.
  - Refactored both Kubernetes and RKE2 syntax commands, and resolved the failure of k8s image build to improve system stability and reliability.
 
-**Software Engineer intern** - @[**RealRate**](https://realrate.ai/) _Jul 2021 – Sep 2021_<br>
+**Software Engineer intern** - @<a href="https://realrate.ai/" target="_blank">RealRate</a> _Jul 2021 – Sep 2021_<br>
 
 - Extended 8 numeric equations of AI rating model, and evaluated the financial strength of US companies with Python.
 - Manipulated APIs to automatically retrieve data from US Edgar database, and merged manual json files, resulting in comprehensive financial analysis and actionable insights.
 
-**Software Engineer Intern** - @[**Moovo Mobility Ltd**](https://www.ridemoovo.com/) _May 2020 – Sep 2020_<br>
+**Software Engineer Intern** - @<a href="https://www.ridemoovo.com/" target="_blank">Moovo Mobility Ltd</a> _May 2020 – Sep 2020_<br>
 
 - Created 3 TaiShin bank's APIS to request credit card transaction page
 - Generated API units testing via Postman, and refactored Moovo project coding base
