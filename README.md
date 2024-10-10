@@ -24,14 +24,6 @@
 - **✍ Source Control System**: SVN, Git, GitLab, GitHub, Bitbucket <br>
 - **📦 Cloud tools**: AWS CodeBuild, S3, EC2, ECR, GCP <br>
 
-## 🏆 Qualifications & Certificates
-
-- **🔠 Language proficiency**:
-  - **IELTS** Overall: **7** / 9, Speaking: **7.5** / 9,
-  - **Japanese Language**: JLPT N1 <br>
-  - **TOEIC** L: 450, R: 435 (Total: **885**) <br>
-- **🏅 Award**: Ningbo Government Scholarship for Hong Kong, Macao and Taiwan Students 2018 – 2019 (1st class in Computer Science Department), University of Nottingham, Ningbo – China <br>
-
 ## 💼 Working experience 
 
 **Backend Engineer** - **JGNet** _Jan 2024 – May 2024_<br>
@@ -69,6 +61,14 @@
 
 ## 🧑‍💻 Education
 
-**Bachelor of Science.** in Computer Science + Artificial Intelligence<br>
+**Bachelor of Science** in Computer Science + Artificial Intelligence<br>
 [University of Nottingham](https://www.nottingham.ac.uk/) - Nottingham, United Kingdom		_(Sep.2017 - Jun.2021)_
+
+## 🏆 Qualifications & Certificates
+
+- **🔠 Language proficiency**:
+  - **IELTS** Overall: **7** / 9, Speaking: **7.5** / 9,
+  - **Japanese Language**: JLPT N1 <br>
+  - **TOEIC** L: 450, R: 435 (Total: **885**) <br>
+- **🏅 Award**: Ningbo Government Scholarship for Hong Kong, Macao and Taiwan Students 2018 – 2019 (1st class in Computer Science Department), University of Nottingham, Ningbo – China <br>
 
