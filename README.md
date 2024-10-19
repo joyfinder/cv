@@ -15,7 +15,7 @@
 ## 🛠 Technical skills
 
 - **🤖 Programming languages**: Java, Python, JavaScript, MatLab, Shell Script, Golang <br>
-- **🏗️ Frameworks**: Flask, Vue.js, React Native, ZK Framework <br>
+- **🏗️ Frameworks**: Flask, Vue.js, React Native, Spring, Hibernate, ZK Framework <br>
 - **⚙️ Operating System**: : MacOS, Windows, Linux, Unix, Ubuntu <br>
 - **⛁ Databases**: MySQL, Redis, Elasticsearch, SQLAlchemy <br>
 - **</> API Tools**: PostMan, Ngrok <br>
